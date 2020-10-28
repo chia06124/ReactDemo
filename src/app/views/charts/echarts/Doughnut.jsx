@@ -11,7 +11,7 @@ const DoughnutChart = ({ height, color = [], theme }) => {
       bottom: 0,
       textStyle: {
         color: theme.palette.text.secondary,
-        fontSize: 13,
+        fontSize: 14,
         fontFamily: "roboto"
       }
     },
